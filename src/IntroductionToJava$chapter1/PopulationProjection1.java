@@ -1,6 +1,6 @@
 /*This code displays the population for each for the next five years*/
 package IntroductionToJava$chapter1;
-public class populationProjection1 {
+public class PopulationProjection1 {
     public static void main (String[] args){
         final int currentPopulation = 312032486;
         

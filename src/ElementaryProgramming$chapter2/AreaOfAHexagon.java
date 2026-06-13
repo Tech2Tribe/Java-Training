@@ -1,7 +1,7 @@
 /*This program prompts the user to enter the side of a hexagon and display it area*/
 package ElementaryProgramming$chapter2;
 import java.util.Scanner;
-public class areaOfAHexagon {
+public class AreaOfAHexagon {
     public static void main (String[] args){
         //create a scanner
         Scanner input = new Scanner (System.in);

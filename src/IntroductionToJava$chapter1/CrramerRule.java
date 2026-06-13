@@ -1,6 +1,6 @@
 /*This program uses the cramer's rule to solve for the value of x and y*/
 package IntroductionToJava$chapter1;
-public class cramerRule {
+public class CrramerRule {
     public static void main(String[] args){
         double a = 3.4;
         double b = 50.2;
